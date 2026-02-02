@@ -1,0 +1,10 @@
+﻿namespace UdemyInterviewCourse
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
