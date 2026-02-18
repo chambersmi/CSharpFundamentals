@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHashCodeMethod", "GetCas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{4AC4049E-E43D-4B44-B50C-B856EBC9B844}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{E2FAE390-DD7B-45EA-A404-B0C374E4DCE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caching", "Caching\Caching.csproj", "{7E37200A-51CC-4FCC-9F07-0CE674EE54EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{4AC4049E-E43D-4B44-B50C-B856EBC9B844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AC4049E-E43D-4B44-B50C-B856EBC9B844}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AC4049E-E43D-4B44-B50C-B856EBC9B844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FAE390-DD7B-45EA-A404-B0C374E4DCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FAE390-DD7B-45EA-A404-B0C374E4DCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FAE390-DD7B-45EA-A404-B0C374E4DCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FAE390-DD7B-45EA-A404-B0C374E4DCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E37200A-51CC-4FCC-9F07-0CE674EE54EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E37200A-51CC-4FCC-9F07-0CE674EE54EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E37200A-51CC-4FCC-9F07-0CE674EE54EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E37200A-51CC-4FCC-9F07-0CE674EE54EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
